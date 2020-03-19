@@ -1,7 +1,7 @@
 main: com.cavetale.glow.GlowPlugin
 name: Glow
 version: 0.1
-description: Glow Plugin
+description: Light up blocks with glowstone dust
 author: StarTux
 website: https://cavetale.com
 depend: []
