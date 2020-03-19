@@ -1,0 +1,12 @@
+main: com.cavetale.glow.GlowPlugin
+name: Glow
+version: 0.1
+description: Glow Plugin
+author: StarTux
+website: https://cavetale.com
+depend: []
+softdepend: []
+permissions:
+  glow.glow:
+    description: Use glowstone
+    default: op
